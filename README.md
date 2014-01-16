@@ -8,21 +8,21 @@ Linux Django App running on Windows
 * It's like a portable lite linux... (with git installed)
 			 
 ### 2- Intall Python for Windows
-* Choose and Download the executable file for Python (http://www.python.org/getit/)
-* Install Python in your PC
+* Choose and Download the executable file for Python (http://www.python.org/getit/).
+* Install Python in your PC.
            
              
-### 3- Install virtualenv and virtualenvwrapper from Git Portable Shell
+### 3- Install virtualenv and virtualenvwrapper from Git Portable Shell.
     pip install virtualenv
     pip install virtualenvwrapper-win
 
-4.- Create an virtualenv for your project
+4.- Create an virtualenv for your project.
 * Create a folder for store the Django projects and virtual enviorenments.
-* Go to this folder and create the virtualenv
+* Go to this folder and create the virtualenv.
     virtualenv helloWorld-env
-* Command for activate the virtualenv
+* Command for activate the virtualenv.
     source helloWorld-env/Scripts/activate
-* Command for deactivate the virtualenv
+* Command for deactivate the virtualenv.
     Deactivate
 
 ### 5- Install Django in your virtualenv
@@ -35,5 +35,5 @@ Copy HelloWorld Django proyect from this repository in your development path.
 And go to project path for execute te server with this command:
     python manage.py runserver
 And congratulations you have your Linux Django project running on windows.
-You can access to the application from a browser
+You can access to the application from a browser.
     http://127.0.0.1:8000/
