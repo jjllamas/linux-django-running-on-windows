@@ -1,4 +1,4 @@
-Running a Django Linux Application on Windows
+Running a Django Linux App on Windows
 ==============================================
   
 ### 1- Download GitPortable for Windows
