@@ -1,4 +1,4 @@
-Linux Django App running on Windows 
+Linux Django running on Windows 
 ===================================
 
 Sometimes you have a Django project (for Linux) which you want deploy in a PC with Windows.
