@@ -7,7 +7,7 @@ For example, at house you have a computer with Linux, where you development your
 
 For this case you can use this project with which you can deploy a Django project build for Linux on a Windows machine.
 
-Only you have follow the next easy 5 steps:
+Only you have to follow the next easy 5 steps:
 
 ### 1- Download GitPortable for Windows
 This portable application provides a linux shell that runs on windows. It's like a portable lite linux... (with git installed)
