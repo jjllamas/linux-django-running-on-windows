@@ -14,6 +14,7 @@ This portable application provides a linux shell that runs on windows. It's like
 * Turn on your windows machine.
 * Download and execute [Git Portable] (https://code.google.com/p/msysgit/downloads/list) application.
 * Clone this repository in your development path (for instance `C:\dev`).
+    * `$git clone https://github.com/jjllamas/linux-django-running-on-windows.git`  
 
 More info of [msysgit project] (https://code.google.com/p/msysgit/)
 			 
