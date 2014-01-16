@@ -1,9 +1,9 @@
 Linux Django App running on Windows 
-==============================================
+===================================
 
 Sometimes you have a Django project (for Linux) which you want deploy in a PC with Windows.
 
-For example, at house you have a computer with Linux, where you development your Django app, but you have a laptop with Windows and you need develpment your Django aplication out of your home.
+For example, at home you have a computer with Linux, where you developmental your Django app, but you have the necessity of development the app in another computer with windows.
 
 For this case you can use this project with which you can deploy a Django project build for Linux on a Windows machine.
 
@@ -21,8 +21,7 @@ More info of [msysgit project] (https://code.google.com/p/msysgit/)
 For works with Django you need Python environment installed and configured.
 * Choose and Download the executable file for [Python](http://www.python.org/getit/).
 * Install Python in your PC.
-           
-             
+
 ### 3- Install and activate virtualenv.
 For to be able install more Django projects in the same machine, you should use virtual environments ([virtualenv](http://www.virtualenv.org/en/latest/))
 * Execute GitPortable Bash and execute the following commands:
