@@ -20,9 +20,9 @@ Linux Django App running on Windows
 * Create a folder for store the Django projects and virtual enviorenments.
 * Go to this folder and create the virtualenv
     virtualenv helloWorld-env
-** Command for activate the virtualenv
+* Command for activate the virtualenv
     source helloWorld-env/Scripts/activate
-** Command for deactivate the virtualenv
+* Command for deactivate the virtualenv
     Deactivate
 
 ### 5- Install Django in your virtualenv
