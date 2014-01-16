@@ -1,7 +1,7 @@
 Linux Django App running on Windows 
 ==============================================
 
-Sometimes you have a Django project which you want deploy in any PC with whatever environment, for example, at house you have a computer with Linux, where you development you Django app, but you want kill your time in the office in your PC with Windows.
+Sometimes you have a Django project (for Linux) which you want deploy in any PC with whatever environment, for example, at house you have a computer with Linux, where you development you Django app, but you want kill your time in the office in your PC with Windows.
 
 For this you can use this project with which you can deploy a Django project build for Linux on a Windows machine.
 
