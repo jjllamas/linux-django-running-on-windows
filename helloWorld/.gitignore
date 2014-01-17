@@ -10,7 +10,6 @@
 _svn
 svn-commit*.tmp
 *.db
-core/settings/local.py
 .project
 .pydevproject
 .settings
