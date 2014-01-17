@@ -12,7 +12,7 @@ add the following:
 
 from default import *
 
-Do NOT set up your local settings under version control
+Do NOT set up your local settings under version control.
 
 """
 class LocalSettingsException(Exception):
