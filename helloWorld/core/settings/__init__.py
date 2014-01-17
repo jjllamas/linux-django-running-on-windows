@@ -3,9 +3,9 @@
 Settings configuration for a proper development:
 
 settings
-├── __init__.py
-├── defaults.py
-└── local.py
++-- __init__.py
++-- defaults.py
++-- local.py
 
 Your settings should be defined in local.py and in that file
 add the following:
@@ -23,4 +23,3 @@ try:
     from local import *
 except ImportError as e:
     raise LocalSettingsException( __doc__)
-    
