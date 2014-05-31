@@ -12,12 +12,10 @@ Only you have to follow the next easy 5 steps, and check if all is working with 
 ### 1- Download GitPortable for Windows
 This portable application provides a linux shell that runs on windows. It's like a portable lite linux... (with git installed)
 * Turn on your windows machine.
-* Download and execute [Git Portable] (http://msysgit.github.io/) application.
-* Clone this repository in your development path (for instance `C:\dev`).
+* Download and execute [Git for Win installer] (http://msysgit.github.io/) application.
+* Open Git console and clone this repository in your development path (for instance `C:\dev`).
     * `$git clone https://github.com/jjllamas/linux-django-running-on-windows.git`  
 
-More info of [msysgit project] (https://code.google.com/p/msysgit/)
-			 
 ### 2- Intall Python for Windows
 For works with Django you need Python environment installed and configured.
 * Choose and Download the executable file for [Python](http://www.python.org/getit/).
@@ -25,6 +23,8 @@ For works with Django you need Python environment installed and configured.
 
 ### 3- Install and activate virtualenv.
 For to be able install more Django projects in the same machine, you should use virtual environments ([virtualenv](http://www.virtualenv.org/en/latest/))
+* Install pip
+    * [pip installation documentation] (http://pip.readthedocs.org/en/latest/installing.html)
 * Execute GitPortable Bash and execute the following commands:
     * `$pip install virtualenv`
     * `$pip install virtualenvwrapper-win`
