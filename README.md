@@ -3,7 +3,7 @@ Linux Django running on Windows
 
 Sometimes you have a Django project (for Linux) which you want deploy in a PC with Windows.
 
-For example, at home you have a computer with Linux, where you are developing your Django app, but you have the necessity of develop this app in another computer with windows.
+For example, at home you have a computer with Linux, where you are developing your Django app, but you have the necessity of develop this app in another computer with windows, for test your app running in IE... for example...
 
 For this case you can use this project with which you can deploy a Django project build for Linux on a Windows machine.
 
@@ -12,7 +12,7 @@ Only you have to follow the next easy 5 steps, and check if all is working with 
 ### 1- Download GitPortable for Windows
 This portable application provides a linux shell that runs on windows. It's like a portable lite linux... (with git installed)
 * Turn on your windows machine.
-* Download and execute [Git Portable] (https://code.google.com/p/msysgit/downloads/list) application.
+* Download and execute [Git Portable] (http://msysgit.github.io/) application.
 * Clone this repository in your development path (for instance `C:\dev`).
     * `$git clone https://github.com/jjllamas/linux-django-running-on-windows.git`  
 
